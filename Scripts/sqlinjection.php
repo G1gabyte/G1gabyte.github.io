@@ -1,7 +1,6 @@
 <?php
 
 require("../Login/includes/functions.php");
-// require("includes/functions.php");
 
 global $mysqli;
 

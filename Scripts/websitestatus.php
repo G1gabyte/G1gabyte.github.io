@@ -17,7 +17,8 @@
 </html>
 
 
-<?php
+<!-- <?php
 
-	echo "Your IP Address: ".$_SERVER['REMOTE_ADDR'];
-?>
+	// echo "Your IP Address: ".$_SERVER['REMOTE_ADDR'];
+	// function loader() { var elem = document.getElementById('loader-wrapper'); elem.classList.remove('hidden');}
+?> -->
