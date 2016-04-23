@@ -1,0 +1,140 @@
+Array
+(
+    [lsd] => AVq-eOjP
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 1
+    [profile_selector_ids] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => 240
+    [lgndim] => eyJ3IjoxNjAwLCJoIjo5MDAsImF3IjoxNjAwLCJhaCI6ODczLCJjIjoyNH0=
+    [lgnrnd] => 201548_1C3t
+    [lgnjs] => 1459912591
+    [email] => asdasd
+    [pass] => asdasds
+    [default_persistent] => 0
+    [qsstamp] => W1tbMjgsNTEsNjcsNzAsNzIsODMsMTI3LDE0NiwxNjEsMTY2LDE4MiwyMTAsMjM3LDI2OCwyNzksMjgyLDI5MSwyOTYsMzAxLDMwNSwzMDYsMzcwLDM3NCwzODQsMzk2LDQxMCw0MTYsNDE3LDQxOCw0NDYsNDUxLDQ1NCw0NTksNDY4LDQ5Myw0OTgsNTA1LDUwOCw1NjQsNTY1LDU5OCw4MzBdXSwiQVpsWmVZRTNzQ3lEeENFaVVmQWowTy05SUNFalM1aDVXUkltNWZ6VE9Nc0xLellaSEpqQmRGY3RmRHp1YktoT1dYYjZ3UjhHU2FjbVBoWU44YkhFUU9lMHRTMDZUVXlORUpiMDZ3Zk5oYkJJV0wzckR6d2xodkp4RGRBMUhQQ2toa0FLd21EWXVIYjBNVGJKR2d3bU5Zd0lRMmZGVEQzc0tsbmttM2Y5aFFMN1RpYk1qNUlLVGs0cHNoYzFKaEFpaXZYNmpBUmd6Y1VENVlSQWlvLXl2dzBaIl0=
+)
+Array
+(
+    [lsd] => AVq-eOjP
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 1
+    [profile_selector_ids] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => 300
+    [lgndim] => eyJ3IjoxNDE0LCJoIjo3OTQsImF3IjoxNDE0LCJhaCI6NzU1LCJjIjoyNH0=
+    [lgnrnd] => 201548_1C3t
+    [lgnjs] => 1459912788
+    [email] => pass
+    [pass] => pass
+    [default_persistent] => 0
+    [qsstamp] => W1tbMjgsNTEsNjcsNzAsNzIsODMsMTI3LDE0NiwxNjEsMTY2LDE4MiwyMTAsMjM3LDI2OCwyNzksMjgyLDI5MSwyOTYsMzAxLDMwNSwzMDYsMzcwLDM3NCwzODQsMzk2LDQxMCw0MTYsNDE3LDQxOCw0NDYsNDUxLDQ1NCw0NTksNDY4LDQ5Myw0OTgsNTA1LDUwOCw1NjQsNTY1LDU5OCw4MzBdXSwiQVpsWmVZRTNzQ3lEeENFaVVmQWowTy05SUNFalM1aDVXUkltNWZ6VE9Nc0xLellaSEpqQmRGY3RmRHp1YktoT1dYYjZ3UjhHU2FjbVBoWU44YkhFUU9lMHRTMDZUVXlORUpiMDZ3Zk5oYkJJV0wzckR6d2xodkp4RGRBMUhQQ2toa0FLd21EWXVIYjBNVGJKR2d3bU5Zd0lRMmZGVEQzc0tsbmttM2Y5aFFMN1RpYk1qNUlLVGs0cHNoYzFKaEFpaXZYNmpBUmd6Y1VENVlSQWlvLXl2dzBaIl0=
+)
+Array
+(
+    [lsd] => AVpiYFlw
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 1
+    [profile_selector_ids] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => 240
+    [lgndim] => eyJ3IjoxNjAwLCJoIjo5MDAsImF3IjoxNjAwLCJhaCI6ODczLCJjIjoyNH0=
+    [lgnrnd] => 111202_5eGN
+    [lgnjs] => 1459966355
+    [email] => stilltesgin
+    [pass] => test
+    [default_persistent] => 0
+    [qsstamp] => W1tbXV0sIkFabEZQSlVPeUtUdUdtdjFwSnU0SGFMaGRaLUVFRFhrM1MtTVcxakVaY1NPUlI5cXRLcnBOLWFNeDh0dmF5azBtZTNRQTdDTEJwNzhDaFN6M2U4aTlBajlKVVNCOWc4YlRqZ1ZVSkhhTWlFSHJJalNYUUlpb1pURER5YmVhT0RiSkhEYVA5UFdBdUtZeTRkbTI5NkMtTjJtSnBacEFHOTNBdFRlanY4bFA4U1FEV3lvUkN0U1RtVWxvWjBzS2o5WEpCN2J3ODliYkxCMi01SWgxR2wzV2lvaURJYzFGeXRRcjY0d3NQY3pJaHljX1EiXQ==
+)
+Array
+(
+    [lsd] => AVpiYFlw
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 1
+    [profile_selector_ids] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => 240
+    [lgndim] => eyJ3IjoxNjAwLCJoIjo5MDAsImF3IjoxNjAwLCJhaCI6ODczLCJjIjoyNH0=
+    [lgnrnd] => 111202_5eGN
+    [lgnjs] => 1459966399
+    [email] => asd
+    [pass] => asd
+    [default_persistent] => 0
+    [qsstamp] => W1tbXV0sIkFabEZQSlVPeUtUdUdtdjFwSnU0SGFMaGRaLUVFRFhrM1MtTVcxakVaY1NPUlI5cXRLcnBOLWFNeDh0dmF5azBtZTNRQTdDTEJwNzhDaFN6M2U4aTlBajlKVVNCOWc4YlRqZ1ZVSkhhTWlFSHJJalNYUUlpb1pURER5YmVhT0RiSkhEYVA5UFdBdUtZeTRkbTI5NkMtTjJtSnBacEFHOTNBdFRlanY4bFA4U1FEV3lvUkN0U1RtVWxvWjBzS2o5WEpCN2J3ODliYkxCMi01SWgxR2wzV2lvaURJYzFGeXRRcjY0d3NQY3pJaHljX1EiXQ==
+)
+Array
+(
+    [lsd] => AVpiYFlw
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 1
+    [profile_selector_ids] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => 
+    [lgndim] => 
+    [lgnrnd] => 111202_5eGN
+    [lgnjs] => n
+    [email] => 
+    [pass] => 
+    [login] => 1
+    [default_persistent] => 0
+)
+Array
+(
+    [lsd] => AVpiYFlw
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 1
+    [profile_selector_ids] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => 240
+    [lgndim] => eyJ3IjoxNjAwLCJoIjo5MDAsImF3IjoxNjAwLCJhaCI6ODczLCJjIjoyNH0=
+    [lgnrnd] => 111202_5eGN
+    [lgnjs] => 1459966491
+    [email] => 21321312
+    [pass] => 21321321
+    [default_persistent] => 0
+    [qsstamp] => W1tbXV0sIkFabEZQSlVPeUtUdUdtdjFwSnU0SGFMaGRaLUVFRFhrM1MtTVcxakVaY1NPUlI5cXRLcnBOLWFNeDh0dmF5azBtZTNRQTdDTEJwNzhDaFN6M2U4aTlBajlKVVNCOWc4YlRqZ1ZVSkhhTWlFSHJJalNYUUlpb1pURER5YmVhT0RiSkhEYVA5UFdBdUtZeTRkbTI5NkMtTjJtSnBacEFHOTNBdFRlanY4bFA4U1FEV3lvUkN0U1RtVWxvWjBzS2o5WEpCN2J3ODliYkxCMi01SWgxR2wzV2lvaURJYzFGeXRRcjY0d3NQY3pJaHljX1EiXQ==
+)
+Array
+(
+    [lsd] => AVpiYFlw
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 1
+    [profile_selector_ids] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => 240
+    [lgndim] => eyJ3IjoxNjAwLCJoIjo5MDAsImF3IjoxNjAwLCJhaCI6ODczLCJjIjoyNH0=
+    [lgnrnd] => 111202_5eGN
+    [lgnjs] => 1459966581
+    [email] => facebook
+    [pass] => facebook
+    [default_persistent] => 0
+    [qsstamp] => W1tbXV0sIkFabEZQSlVPeUtUdUdtdjFwSnU0SGFMaGRaLUVFRFhrM1MtTVcxakVaY1NPUlI5cXRLcnBOLWFNeDh0dmF5azBtZTNRQTdDTEJwNzhDaFN6M2U4aTlBajlKVVNCOWc4YlRqZ1ZVSkhhTWlFSHJJalNYUUlpb1pURER5YmVhT0RiSkhEYVA5UFdBdUtZeTRkbTI5NkMtTjJtSnBacEFHOTNBdFRlanY4bFA4U1FEV3lvUkN0U1RtVWxvWjBzS2o5WEpCN2J3ODliYkxCMi01SWgxR2wzV2lvaURJYzFGeXRRcjY0d3NQY3pJaHljX1EiXQ==
+)

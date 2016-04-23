@@ -1,0 +1,28 @@
+body {
+	background-color: lightblue;
+	text-align: center;
+}
+
+p {
+	color: 	purple;
+}
+
+h3 {
+	color: 	green;
+	font-family: Palatino Linotype;
+}
+
+button {
+    background-color: lightblue; /* Green */
+    border: 2px solid green;
+    color: black;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+	background-color: green;
+}
