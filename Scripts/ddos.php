@@ -1,6 +1,6 @@
 <HTML>
 
-<title>DDOS by g1gabyte</title>
+<title>DDOS by MysT</title>
 
 <body>
 <style>

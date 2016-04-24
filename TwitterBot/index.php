@@ -3,7 +3,7 @@
 $cmd = "ruby twitterbot.rb";
 $output = exec($cmd);
 if (!$output) {
-	echo "Tweet Post!!!";
+	echo "Tweet Post!!!<br>";
 } else {
 	echo "Fail!!";
 }

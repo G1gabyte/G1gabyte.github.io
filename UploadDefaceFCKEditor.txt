@@ -1,0 +1,22 @@
+                                          UPLOAD HTML - Portail Dokeos 1.8.5 
+
+Esta vulnerabilidade permite que qualquer pessoa realize o Upload de um arquivo em HTML ou PHP(raramente), FCKeditor é um plugin utilizado em muitos websites no mundo todo, ele permite que o usuário faça um upload de uma imagem, mas alguns não fazem o bloqueio de certos arquivos, como .HTML, com esta vulnerabilidade você pode upar qualquer arquivo com a  extensão html, seja um html comum ou até sua index de Deface! Aproveitem :D
+
+Google Dork: inurl:"/dokeos/main" site:br 
+                                  ou troque pelo tipo que quiser :D
+
+E-X-P-L-O-I-T: /main/inc/lib/fckeditor/editor/filemana­ger/upload/test.html
+
+Exemplo: www.site.com/dokeos/main 
+Ficará assim: www.site.com/dokeos/main/inc/lib/fckeditor/editor/filemana­ger/upload/test.html
+
+Em Select the "File Uploader" to use, o padrão é ASP, modifique para PHP
+
+Em 'File Uploader' faça o upload de qualquer HTML, Busque, e faça o upload
+
+Se Funcionar, em "Uploaded File URL" estará a URL do Arquivo HTML selecionado
+O upload de arquivos com a extensão .PHP está restrito em 90% dos sites(ou ele será renomeado para .phps)
+
+Agradecimentos: DBTUROK, SECURITY PROJ3CT BR4SIL & LWKS OWNER
+
+                                      COPYRIGHT 2013 (C). ALL RIGHTS RESERVED

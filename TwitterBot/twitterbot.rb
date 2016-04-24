@@ -12,3 +12,4 @@ end
 
 outputs = ["A smart man makes a mistake, learns from it, and never makes that mistake again. But a wise man finds a smart man and learns from him how to avoid the mistake altogether.", "The end is near!", "Are you ready?", "Live for yourself.", "The winter is coming", "The trouble is you think you have time.", "So it goes.", "Whatever you are, be a good one.", "Everone dies, but not everyone lives"]
 client.update(outputs.sample)
+print(outputs.sample)
